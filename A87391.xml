@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of His Majesty and the army. As also the grounds and reasons of the armies guarding and preservation of His Majesties person. Authorized by speciall command.</title>
+            <author>Joyce, George, fl. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87391</idno>
+            <idno type="STC">Wing J1125</idno>
+            <idno type="STC">Thomason E396_5</idno>
+            <idno type="STC">ESTC R201642</idno>
+            <idno type="EEBO-CITATION">99862142</idno>
+            <idno type="PROQUEST">99862142</idno>
+            <idno type="VID">114291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114291)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E396[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of His Majesty and the army. As also the grounds and reasons of the armies guarding and preservation of His Majesties person. Authorized by speciall command.</title>
+                  <author>Joyce, George, fl. 1647.</author>
+               </titleStmt>
+               <extent>[4], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Benson, and are to be sold at his shop in Chancery lane neer the Rouls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: George Joyce.</note>
+                  <note>A reply to: Reymes, B. A narration of severall passages betwixt His Majesty and Master B. Reymes, at Newmarket, concerning the army (Wing R1211).</note>
+                  <note>Annotation on Thomason copy: "1st July".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reymes, B. --  Narration of severall passages betwixt His Majesty and Master B. Reymes, at Newmarket, concerning the army --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114291:1"/>
+            <!-- PDF PAGE 24 -->
+            <pb facs="tcp:114291:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 24 -->
+            <p>A VINDICATION OF HIS MAJESTY AND THE ARMY.</p>
+            <p>
+               <hi>AS ALSO</hi> The grounds and reaſons of the Armies guarding and preſervation of His MAJESTIES Perſon.</p>
+            <p>Authorized by ſpeciall Command.</p>
+            <p>
+               <date>
+                  <add>14 July</add>
+               </date>
+               <hi>LONDON,</hi> Printed for <hi>John Benſon,</hi> and are to be ſold at his ſhop in <hi>Chancery Lane</hi> neer the Rouls, 1647</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:114291:2"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:114291:2"/>
+            <!-- PDF PAGE 25 -->
+            <head>To all my fellow Commoners that love peace and righteouſneſſe.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here are new births of providence e<g ref="char:EOLhyphen"/>very day wherein the wiſdom of God appeares in a very delightfull varie<g ref="char:EOLhyphen"/>ty. There are yet not many days ſince ſome who are neyther true friends to the <hi>King</hi> or <hi>Kingdomes</hi> intereſt, to the <hi>Epiſcopall</hi> or <hi>Presbyteriall</hi> Intereſt, were driving on the <hi>Chariot</hi> of the State on their own <hi>wheels,</hi> wheels of <hi>ſelf-intereſt,</hi> and <hi>popularity</hi> abuſing only the notion and name of a <hi>King, Epiſcopacy and Presby<g ref="char:EOLhyphen"/>tery,</hi> to form a Kingdom to their own advantage. But <hi>Divine Providence</hi> ſeeing this, oppoſes it ſelf againſt ſuch a vanity, working out this politick power and ſelfiſh ſenſuall wiſdom, and ſet new wheels on going, and new preparatories to juſtice and righteouſneſſe, fortifying weak and deſpiſed inſtruments, to do and accompliſh things in order to his own glory.</p>
+            <p>
+               <pb facs="tcp:114291:3"/>
+               <!-- PDF PAGE 26 -->
+But, loe the prider and vanity of men acted by ſelf-reſpects: when God coſſes them in their enterpriſes, behold hew they ſpurn againſt him, if hee employs any inſtruments to hinder the building of their Babyloniſh towres, aſpiring towards the heavens, then may you ſee how through policy and power they ſeek to traduce and calumniate ſuch inſtrumenct, branding their loyall and upright actions with the ignominious terms of Trea<g ref="char:EOLhyphen"/>ſons and Rebellions. But (I hope) theſe mens folly be<g ref="char:EOLhyphen"/>gins now to be made manifeſt to all men, and ſhall no more be covered. By theſe few lines enſuing, if thy eyes be opened, thou whoſoever thou art that ſhall read them, mayſt ſee the myſtery of this iniquity working in that Pamphlet, which for truths ſake and thy better infor<g ref="char:EOLhyphen"/>mation in this following diſcourſe, thou ſhalt ſee a little unmaſqued.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:114291:3"/>
+            <!-- PDF PAGE 26 -->
+            <head>A Vindication of his MAIESTIE and the Army, from a Paper of M. <hi>Reymes,</hi> pretending to be printed by the authority of the LORDS in Parliament.</head>
+            <p>MAſter <hi>Reymes</hi> to gain the more credit to his own inventions, with much falſhood, hee hath enterwoven ſome truth: yet ſo confu<g ref="char:EOLhyphen"/>ſedly that, it is a hard matter to ſay what hee hath related truly; for his Relations are either guil<g ref="char:EOLhyphen"/>ty of direct contrariety to truth, Addition or Subſtraction. And how a man may ſcandalize any man by any truth, by ſuch an imperfect, lame, and falſe relation, I leave to wiſemen to judge.</p>
+            <p>Whereas Maſter <hi>Reymes</hi> ſayth, for his admiſſion to his Majeſty, Major Generall <hi>Brown</hi> eſpying him, proffered him the honour of his Majeſties hand: Major Generall <hi>Brown</hi> denyes that hee e<g ref="char:EOLhyphen"/>ver knew this man, or ſo proffered him his Ma<g ref="char:EOLhyphen"/>jeſties hand, but Maſter <hi>Reymes</hi> deſired it of him.</p>
+            <p>
+               <pb n="2" facs="tcp:114291:4"/>
+               <!-- PDF PAGE 27 -->
+And whereas Maſter <hi>Reymes</hi> writes that the King ſtruck Colonell <hi>Whaley</hi> for his preſumptuous liſtning, while his Majeſty was in conference with one, whom they ſuſpected, came from <hi>London,</hi> The truth is, the report of his is falſe, the King denyes that hee ſtruck him: neither was the Meſſen<g ref="char:EOLhyphen"/>ger ſuſpected to come from <hi>London,</hi> but the truth of that matter is as followeth.</p>
+            <p>There came a Meſſenger to <hi>New-market,</hi> from the Prince of <hi>Orange,</hi> and the reſt of the Kings Friends, with a meſſage to his Majeſty, which hee delivered to the King as he was walking in the Garden, Co<g ref="char:EOLhyphen"/>lonell <hi>Whaley</hi> eſpying this Meſſenger privatly to be diſcourſing with his Majeſty, deſired him to forbear any further diſcourſe in private with him, whoſe de<g ref="char:EOLhyphen"/>ſire was grounded upon the Commiſſioners, decla<g ref="char:EOLhyphen"/>ring to him that at <hi>Holmby</hi> none were ſuffered pri<g ref="char:EOLhyphen"/>vatly to diſcourſe with the King, nor any that had been in the Kings Army, to come within three miles of <hi>Holmby,</hi> Colonel <hi>Whaley</hi> endevouring to prevent any evill Counſellours from his Majeſty, the danger and prevalency of whom this Kingdom yet groans<g ref="char:punc">▪</g> under the wofull experience of, and to keep a good correſpondency with the Commiſſioners, true it is, the King was ſomething troubled at it, and did thruſt him from him, but not ſtrike him, according to the Pamphlet, and the reaſon of the Kings ſo doing, was when the King after dinner was diſcour<g ref="char:EOLhyphen"/>ſing with this Meſſenger in the Preſence Cham<g ref="char:EOLhyphen"/>ber, Colonel <hi>Whaley</hi> came in, which made the King as hee ſaid himſelfe to talke a little longer with him<g ref="char:punc">▪</g> to ſee what the Colonell would doe</p>
+            <p>
+               <pb n="3" facs="tcp:114291:4"/>
+               <!-- PDF PAGE 27 -->
+The Collonel perceiving this, deſired the King to for<g ref="char:EOLhyphen"/>beare ſpeaking with any ſuch perſons; the King then prote<g ref="char:EOLhyphen"/>ſted he would not, for it they were in his ſight, he would not bid them goe away; Then the Collonel deſiring him to for<g ref="char:EOLhyphen"/>beare ſpeaking with him, the King thruſt him away, not for preſumptuous liſtning, as Mr. <hi>Reymes</hi> affirmes.</p>
+            <p>To paſſe by the many particular untruths and incertain<g ref="char:EOLhyphen"/>ties of Maſter <hi>Reymes</hi> his relation, the ſubſtance of it be<g ref="char:EOLhyphen"/>ing to make the world believe that the King was taken a<g ref="char:EOLhyphen"/>way againſt his will, I ſhall in a word or two anſwer to that;</p>
+            <p>When we came to <hi>Holmby,</hi> he told me when we had an<g ref="char:EOLhyphen"/>ſwered his deſires, and thoſe things we ſhould propound to him, he would goe along with us; to which his propoſitions we gave him ſuch a ſatisfactory anſwer, that he told us, hee would goe with us whether the Commiſſioners would, yea or no, and accordingly did. Moreover, one of the Commiſ<g ref="char:EOLhyphen"/>ſioners before ever I ſpake with his Majeſtie, told me he was reſolved to goe with us.</p>
+            <p>Whereas Maſter <hi>Reymes</hi> further affirmeth, that the King ſaid, that if he were at the head of the Army, he would proteſt againſt all their proceedings, the King denied to me that ever he ſaid ſo. But I ſhall for this time leave Maſter <hi>Reymes</hi> without any further Character of the man, or re<g ref="char:EOLhyphen"/>ply to his paper, then what his Majeſtie ſaid of both at the ſight of his Booke; who ſaid, if the Citizens dealt thus with him, he ſhould be carefull of having to doe with them, or ſpeaking to a Citizen for time to come, except it were before five or ſix witneſſes, they being ſo ſickle, by which it may fully appeare, that he hath abuſed his Majeſty, by laying thoſe things to his charge, which he never ſaid, wronged Major Generall <hi>Browne,</hi> by imputing that to him which he never did, ſcandalized the Army, by ſaying they
+<pb n="4" facs="tcp:114291:5"/>
+               <!-- PDF PAGE 28 -->tooke away the King againſt his will, when he went accor<g ref="char:EOLhyphen"/>ding to his profeſſion willingly with them, injured Collo<g ref="char:EOLhyphen"/>nell <hi>Whaley,</hi> by affirming the King did ſtrike him, for pre<g ref="char:EOLhyphen"/>ſumptuous liſtning to his Majeſties diſcourſe with the Meſſenger, which was no ſuch matter, deluded the people by preſenting them with a falſe Relation to prejudice, fore<g ref="char:EOLhyphen"/>ſtall, and capivate their judgements, and ſurprized the houſe of Lords, by obtaining to all this his wickedneſſe their au<g ref="char:EOLhyphen"/>thority for its publication.</p>
+            <p>Therefore now fellow Commoners, who are borne to as large priviledges and immunities as any people on the earth, which you may all challenge as your birth-right, leſt you ſhould be induced through the ſubtilty of ſome litigi<g ref="char:EOLhyphen"/>ous Lawyers, or through the policy and ſpecious pretences of any man whatſoever to judge our action of guarding his Majeſty from <hi>Holmby</hi> to be illegall, and contrary to the truſt repoſed in us, aſſure your ſelves that action of ours was not a raſh precipitant enterpriſe, as ſome ſay, but chal<g ref="char:EOLhyphen"/>lenges the law of Natuee, Nations, this Kingdome, and our Commiſſioners derived from the Parliament for its foundation.</p>
+            <p>The law of Nature vindicates us, for as in a naturall bo<g ref="char:EOLhyphen"/>dy which is compoſed of ſundry members, may lawfully ſeek its owne preſervation as from inward diſtempers, or out ward dangers that threaten its ruine, ſo likewiſe may a politicall body do, if the head be in danger, the foot ought to run, and the hand to act for its preſervation, and in this endeavour every member particularly, as well as joyntly, is obliged, ſo that if one hand be cut off, one foot lame, one eye forth, the other hand foot and eye are not hereby diſ<g ref="char:EOLhyphen"/>ingaged, but the more firmely bound to put forth their ut<g ref="char:EOLhyphen"/>moſt powers for the bodyes fence.</p>
+            <p n="2">
+               <pb n="5" facs="tcp:114291:5"/>
+               <!-- PDF PAGE 28 -->
+2. The Law of Nations warrants us, every Nation in<g ref="char:EOLhyphen"/>violably maintaining this, that every member in the Nati<g ref="char:EOLhyphen"/>on ought to preſerve the Nation as much as in him lyes; It is a univerſall principle, <hi>non nobis ſolum nati ſumus, &amp;c.</hi> We are not borne for our ſelves alone, but the <hi>Country</hi> in which we live chalenges an intereſt in us, this prin<g ref="char:EOLhyphen"/>ciple made many rejoyce in dying, eſteeming it, <hi>dulce &amp; decorum pro patria mori.</hi>
+            </p>
+            <p n="3">3. <hi>The Law of this Kingdome</hi> (by which we may expect to ſtand or fall) ſecures us in this Kingdome, wee have this <hi>Maximè,</hi> that <hi>ſolus populi is ſuprema lex,</hi> The ſafety of the people is the ſupremeſt law; this was the hinge wee moved upon, the Kingdomes ſafety was endangered, and without a ſpeedy application of a timely preſervative was likely to be conſumed: the beſt preſervative wee could ſee, was the ſecurity of his Majeſties perſon, which our act hath effe<g ref="char:EOLhyphen"/>cted. Whoſe enemies are ſo dull, and whoſe underſtanding is ſo ſtupified and ſottiſhly blind, but may remember and know what a ſad diſaſter hath befallen the Kingdome, in the expence of ſo much blood and treaſure, by the ſurpriſ<g ref="char:EOLhyphen"/>ing of his Majeſties Perſon in the late warres? who can but know, had they not had his perſons their deſignes had pro<g ref="char:EOLhyphen"/>ved abortive? We will know there was a deſigne to ſeixe on his Majeſtie, to raiſe a new Army, and unnaturally to involve this Kingdome in its owne blood, and ſo to render our latterend miſerably worſe then our beginning, but this we thought our ſelves bound to prevent if poſſible, which we ſtill judge and doubt not to prove it, and is yet lawfull for us to doe. As the King is by the law of this King<g ref="char:EOLhyphen"/>dome bound to governe and ſecure us according to the Law, ſo are we engaged to ſecure his Perſon againſt the violaters of the Law, which we have, through the bleſſing of God
+<pb n="6" facs="tcp:114291:6"/>
+               <!-- PDF PAGE 29 -->accompliſhed, Our end was not his enthrallment, bondag and ruine, as by our actions may appeare, but his ſafety, an the Kingdomes preſervation, which otherwiſe we juſtly fea had both been endangered, ſuppoſe the King through igno<g ref="char:EOLhyphen"/>rance of traitors intention to deſtroy His Perſon or His Kingdome, ſhould expoſe himſelf to the mercy of him that ſought his life, do you imagine it would be treaſonable for any one to remove his Majeſty though without his conſent fro<g ref="char:cmbAbbrStroke">̄</g>m the place the traytor ſought his life in, &amp; ſo to preſerve him? but the caſe is yet more fair for us, His judg<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment being ſatiſfied, his will was likewiſe concurring to his remove, we hope this our action will be recented in good part by all the Nation for whoſe good it was effected. Had the King been ſurpriſed, another army been under his name raiſed, the Nation once more wallowed in its own blood then ſurely but too late, would the people have cryed out, oh that ſome had been ſtirred up to have ſtood in this breach.</p>
+            <p n="4">4. The Co<g ref="char:cmbAbbrStroke">̄</g>miſſion from the Parl. whom ſome ſay though with more boldneſſe then judgement, more malice then wiſ<g ref="char:EOLhyphen"/>dome, and more envy then prudence or honeſty, we have re<g ref="char:EOLhyphen"/>belled againſt &amp; acted contrary to in this action) acquits us, for by our Co<g ref="char:cmbAbbrStroke">̄</g>miſſion we are bound to ſeek the preſervation of the Kings perſon, whether we have not ſo done let all the kingdome judge: what hurt to his perſon have we done what hurt to the Kingdome have we done? we are not conſcious to our ſelves that we have in this done amiſſe, who hath cauſe to complain, ſurely none can nor will, except thoſe who had thought to have made all men dance after their pipes, kiſſe their hands, and reſigne up their birthrights, liberties and lives to their <hi>arbitrary,</hi> and <hi>tyrannicall, lawleſse boundles</hi> wills, theſe <hi>Haman</hi>-like are mad to think a poore <hi>Mordecay</hi> will not ſtandcap in hand, bow his knee, and bend unto them.</p>
+            <p>
+               <pb n="7" facs="tcp:114291:6"/>
+               <!-- PDF PAGE 29 -->
+Now therefore <hi>fellow Commoners</hi> I dare aſſure you, if you<g ref="char:punc">▪</g> liſten to thoſe men that in <hi>pulpit</hi> and <hi>preſse</hi> ſound forth con<g ref="char:EOLhyphen"/>tinuall alarmes againſt us, you will involve your ſelves and us in a bloody abhorred by us) ingagement. Therefore my advice to you all, whom I love and honour, for whoſe peace and native <hi>immunities &amp; Priviledge,</hi> I think no task too hard to undertake, no labour too great to undergo, no danger ſo fearful as not to venter my ſelf) is that you would ſpeedily &amp; unanimouſly addreſſe your ſelves to the Parliament (whom you have choſe, whoſe ſervants in truth they are or ought to be) that they would no longer protect unjuſt men through lawleſſe pretence of infringing the liberties of Parliament, but that they would give free liberty, and declare it to all the Kingdom, that all and every man ſhall and may have free liberty to accuſe any member of that houſe, and that no man ſhall fit there againſt whom the Kingdome ſhall have ought juſtly, as being an unreaſonable thing, to think that the op<g ref="char:EOLhyphen"/>preſſors of the ſubject are fit Reformers of the Kingdome, and that the Parliament would ſpeedly without delay ha<g ref="char:EOLhyphen"/>ſten this Kingdomes-yeare of <hi>Jabile,</hi> that every man may re<g ref="char:EOLhyphen"/>turn to his own<g ref="char:punc">▪</g> home, ſit under his own vine, and all our ſwords may be turned into plow ſhares, that there may no more be the alarm of war ſounded in this Kingdome. You, Oh <hi>Countrymen</hi> it lies upon you to remedy that the Parlia<g ref="char:EOLhyphen"/>ment are your <hi>Stevvards,</hi> they ought to give a good account of their actions, you have ſet them a work, good reaſon they ſhould tell you what they have done for you, have you not parted with much pence, much money, much blood, and are you content to bury all in oblivion? never to enquire what is become of all your loſt pains and endevours? Aſ<g ref="char:EOLhyphen"/>ſure your ſelves, that if you awake not you are undone, God hath put an opportunity into your hands, will you not em<g ref="char:EOLhyphen"/>brace
+<pb n="8" facs="tcp:114291:7"/>
+               <!-- PDF PAGE 30 -->it? If you neglect this, you may never have another, when all your money friends and arms are in the hands of your enemies, do you expect juſtice then, and can hardly have any now? Deare Country men, the Common-wealth is ſicke at heart, and groane under a deſperate diſtemper, it lyes languiſhing even as at the laſt gaſpe of peace Bleed<g ref="char:EOLhyphen"/>ing hath produced no other effect then to make it more faint; it is time to thinke of ſome Cordiall, redreſſe and remedy, the principall cauſe of our diſtempers is yet predo<g ref="char:EOLhyphen"/>minant, juſtice muſt take it away, for, <hi>ſublata cauſa tolli<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> effectus;</hi> Many of thoſe that pretend to be our <hi>Phyſitians,</hi> ad<g ref="char:EOLhyphen"/>miniſter malignant druggs to us, even oppreſſion, vexation, and diminution of our eſtates. But thinke you that op<g ref="char:EOLhyphen"/>preſſion and ſlavery is a good <hi>receipt</hi> to reſtore us to liberty, or to free us from bondage. Bee corrupt men fit inſtru<g ref="char:EOLhyphen"/>ments to remoue our corruption? If you ever expect peace and quietneſſe with juſtice and righteouſneſſe to live and flouriſh in this Kingdome, then ſeeke to remove coveto<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> men, that ſeeke to fill their owne baggs, though they <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Kingdome, bloud-thirſty men, treacherous men that have betrayed their truſt from all places of publicke con<g ref="char:EOLhyphen"/>cernment, that endeavour to re-enter honeſt men (who have been diſplaced) into the places of truſt, into the Militi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Common-Councell, Courts of Judicature; for through the great corruption that yet remains in all courts the foot-ſtep<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of reformation are yet inviſible: Endeavour to call all men to accompt, whither Parliament men, Committee-men, Judges, Juſtices, Lord Moyor, Mayors, Aldermen, Com<g ref="char:EOLhyphen"/>mon-Councell men; all Officers, Souldiers, Treaſurers, and all men that have been entruſted with any thing of the pub<g ref="char:EOLhyphen"/>lique, that the good ſtewards may be rewarded, have a cha<g ref="char:EOLhyphen"/>racter of honour ſtamped upon them, the evill imbezellin<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="9" facs="tcp:114291:7"/>
+               <!-- PDF PAGE 30 -->ſtewards may be diſplaced, puniſhed, and their ill gotten goods taken from them, and given to the right owners; Uſe all your lawfull power to place the <hi>Militia</hi> of the King<g ref="char:EOLhyphen"/>dome in the hands of ſuch men that <hi>have</hi> beſt husbanded it for your advantage, goe on and ceaſe not, till Righteouſ<g ref="char:EOLhyphen"/>neſſe and peace flows down in this Kingdome like a mighty water, till the oppreſſed and impriſoned be ſet at liberty and this gaſping, languiſhing, dying Kingdome be inſtated into a full abſolute, compleat and pefect poſſeſſion of all its na<g ref="char:EOLhyphen"/>tive priviledges, freedomes, Charters and immunities what<g ref="char:EOLhyphen"/>ſoever, wherein aſſure your ſelves, you will have no cauſe of repentance, but ſhall receive a crown of joy, and a deep ſhare, portion and intereſt of ſuch liberty, as a long time through blinding guides have been hid from your eyes, your burthens are greater then ever good men diſcountenanced, evil men encouraged, your purſes exhauſted, your liberties infringed by many taxes and aſſeſſements, by the Covetous Clergy mans exacting of tithes, the great burden of the Common-wealth, by quartering of Souldiers. Oh therefore ceaſe not to endeavour petitioning, demand again and again, for your Liberties which if you do, &amp; the Lord proſper you, I ſhall rejoyce, however I have done my duty, and diſcharged my conſcience, and ſhall I hope ever in liberty &amp; in bonds, in Peace and warre, in the capacity of a ſouldier, or of an Engliſh man, in life and death in all lawfull things, by all lawfull meanes manifeſt my ſelf to beyours and the King<g ref="char:EOLhyphen"/>domes faithful ſervant, againſt all oppreſſion, and oppreſſi<g ref="char:EOLhyphen"/>ons, tyranny &amp; tyrants, by what Prerogative, names, titles or pretences, they are or may be dignified or diſtin<g ref="char:EOLhyphen"/>guiſhed whatſoever, although I periſh in the work.</p>
+            <closer>
+               <signed>George Joyce.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
